@@ -2,6 +2,9 @@
 
 Projeto escolar de um site de clínica hospitalar desenvolvido com HTML, CSS e PHP.
 
+## Ambiente de Desenvolvimento
+- XAMPP (Apache, PHP e MySQL)
+
 ## Funcionalidades
 
 ### Área do Paciente
@@ -11,16 +14,21 @@ Projeto escolar de um site de clínica hospitalar desenvolvido com HTML, CSS e P
 ### Área Administrativa
 - Cadastro de médicos
 - Cadastro de especialidades
-- Visualização de consultas agendadas
+- Visualização das consultas
 - Cancelamento de consultas
+
+## Banco de Dados
+- MySQL
+- Armazenamento de pacientes, médicos, especialidades e consultas
 
 ## Tecnologias Utilizadas
 - HTML
 - CSS
 - PHP
+- MySQL
 
 ## Objetivo
-Projeto desenvolvido com fins educacionais para prática de desenvolvimento web e lógica de sistemas.
+Projeto desenvolvido com fins educacionais para prática de desenvolvimento web e uso de banco de dados.
 
 ## Autor
 Euller Santiago
