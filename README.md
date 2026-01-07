@@ -94,6 +94,19 @@ O sistema utiliza chaves estrangeiras para manter a integridade dos dados e evit
 
 ---
 
+## Fluxo recomendado para testes
+
+Para uma melhor experiência de teste do sistema, recomenda-se seguir a seguinte ordem:
+
+1. Acessar primeiro a **área administrativa**
+2. Cadastrar as **especialidades médicas**
+3. Cadastrar os **médicos**, vinculando-os às especialidades
+4. Acessar a **área do paciente** para realizar os agendamentos de consultas
+
+Isso garante que o sistema possua os dados necessários para o funcionamento correto.
+
+---
+
 ## Objetivo do Projeto
 Projeto desenvolvido com fins educacionais, com o objetivo de praticar desenvolvimento web, lógica de sistemas, uso de PHP e integração com banco de dados.
 
