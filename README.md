@@ -70,7 +70,7 @@ Credenciais disponíveis apenas para fins de teste:
 - Usuário: admin
 - Senha: 1234
 
-🔐 As senhas são armazenadas de forma criptografada no banco de dados.
+As senhas são armazenadas de forma criptografada no banco de dados.
 
 ---
 
