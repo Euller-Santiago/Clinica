@@ -29,7 +29,7 @@ O sistema possui uma área para pacientes realizarem o agendamento de consultas 
 - Cadastro de especialidades médicas
 - Cadastro de médicos vinculados a uma especialidade
 - Visualização das consultas agendadas
-- Cancelamento de consultas com motivo
+- Cancelamento de consultas
 - Gerenciamento de médicos e consultas
 
 ---
