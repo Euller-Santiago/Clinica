@@ -53,9 +53,9 @@ Para fins de teste e avaliação do projeto escolar, a área administrativa pode
 - Usuário: admin
 - Senha: 1234
 
-⚠️ Credenciais apenas para demonstração acadêmica.
+Credenciais apenas para demonstração acadêmica.
 
-🔐 As senhas são armazenadas de forma criptografada no banco de dados.
+As senhas são armazenadas de forma criptografada no banco de dados.
 
 ---
 
